@@ -1,5 +1,0 @@
-[Cursor] Initial commit: Power BI Operations Incident and SLA Monitoring Dashboard
-
-- Project structure: data/, docs/, scripts/, tools/
-- docs/PROJECT_STRUCTURE.md with folder rationale
-- .gitignore for venv, .env, __pycache__, .pbix
