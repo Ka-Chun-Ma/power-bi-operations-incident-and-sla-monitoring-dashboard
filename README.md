@@ -18,6 +18,20 @@ A portfolio project demonstrating operations reporting and SLA monitoring for Da
 
 ---
 
+## Scope & priorities
+
+This is a **Data Analyst portfolio project**, not an enterprise system. Design choices optimise for: *What would let a hiring manager understand my capability in 30–60 seconds?*
+
+| Prioritise | Deprioritise |
+|------------|--------------|
+| Business clarity, clean data model, strong KPI logic | Advanced AI, unnecessary automation |
+| Practical dashboard structure, recruiter readability | Complex scripting (unless needed), visual gimmicks |
+| Truthful, professional documentation | Unrealistic business impact claims |
+
+Full principles: [docs/SCOPE_AND_PRIORITIES.md](docs/SCOPE_AND_PRIORITIES.md).
+
+---
+
 ## Repository Structure
 
 | Path | Description |

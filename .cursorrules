@@ -105,6 +105,7 @@ If needed, you can further use the `web_scraper.py` file to scrape the web page 
 - When using seaborn styles in matplotlib, use 'seaborn-v0_8' instead of 'seaborn' as the style name due to recent seaborn version changes
 - Use 'gpt-4o' as the model name for OpenAI's GPT-4 with vision capabilities
 - When searching for recent news, use the current year (2025) instead of previous years, or simply use the "recent" keyword to get the latest information
+- Power BI portfolio project (this repo): Optimise for hiring manager clarity in 30–60 seconds. Prioritise business clarity, clean data model, strong KPI logic, practical dashboard structure, recruiter readability. Do not overbuild: no advanced AI in the dashboard, no unnecessary automation, no complex scripting beyond the sample data script, no visual gimmicks, no unrealistic business claims. See docs/SCOPE_AND_PRIORITIES.md.
 
 # Scratchpad
 
