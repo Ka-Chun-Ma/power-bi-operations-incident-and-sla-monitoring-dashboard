@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# Environment (often contains API keys)
+.env
+
+# IDE / OS
+.idea/
+.vscode/
+*.pbix
+Thumbs.db
