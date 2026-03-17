@@ -18,6 +18,10 @@ The project is designed to showcase practical analyst capability rather than jus
 
 *Executive Overview dashboard showing incident volume, SLA breach rate, critical incidents, backlog pressure, and incident distribution by status, environment, and priority.*
 
+![SLA and Backlog Analysis dashboard](docs/images/sla-backlog-analysis-dashboard.png)
+
+*SLA and Backlog Analysis page showing breach concentration, resolution time, backlog ageing, and open ticket detail for deeper operational diagnosis.*
+
 ---
 
 ## What This Project Covers
@@ -96,9 +100,9 @@ Optional: `--rows 400 --seed 123`. Output: `data/sample/incidents_sample.csv` (o
 
 | Page | Purpose |
 |------|---------|
-| **1. Executive Overview** | KPIs (total, open, resolved, SLA breach %, critical), trend, breakdown by status, environment, priority. |
-| **2. SLA and Backlog Analysis** | Breach rate, avg/median resolution hours, backlog count, backlog over 7 days, ageing table. |
-| **3. Root Cause and Ticket Explorer** | By category and team, cross-tabs, reopened rate, ticket-level table. |
+| **1. Executive Overview** | This page provides a high-level operational summary. It highlights total incidents, open and resolved incidents, SLA breach rate, critical incidents, backlog over 7 days, and incident distribution across status, environment, and priority. |
+| **2. SLA and Backlog Analysis** | This page focuses on operational risk and workload pressure. It shows breach concentration by category and environment, average and median resolution time, backlog volume, backlog ageing, and open ticket detail to support prioritisation. |
+| **3. Root Cause and Ticket Explorer** | This page supports deeper exploration of incident drivers. It shows incident distribution by category and team, review-needed case concentration, category-by-environment breakdown, and ticket-level detail for exploration and triage. |
 
 Layouts and visuals: [docs/wireframes/](docs/wireframes/).
 
@@ -108,6 +112,7 @@ Layouts and visuals: [docs/wireframes/](docs/wireframes/).
 
 - **Power BI Desktop** for the report and model.
 - **Sample data:** Python stdlib only (`csv`, `random`, `datetime`). Synthetic data for demonstration.
+- **Synthetic data:** Created for demonstration and portfolio use only
 - **Documentation:** Australian spelling where applicable (e.g. prioritise, organisation).
 
 ---
