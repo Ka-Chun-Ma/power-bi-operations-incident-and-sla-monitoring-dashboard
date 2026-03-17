@@ -11,5 +11,7 @@ __pycache__/
 # IDE / OS
 .idea/
 .vscode/
+# Power BI
 *.pbix
+!power-bi-operations-incident-and-sla-monitoring-dashboard.pbix
 Thumbs.db
