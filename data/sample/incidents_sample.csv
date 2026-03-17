@@ -1,0 +1,421 @@
+IncidentID,CreatedDate,ResolvedDate,Status,Priority,Severity,Environment,Category,Subcategory,Team,Owner,SLA_Target_Hours,Resolution_Hours,Breach_Flag,Reopened_Flag,Review_Needed_Flag,Age_Days
+INC000001,2025-03-01,2025-03-01,Resolved,P2,High,Production,Data,,Platform,Riley Davis,8,2.2,0,0,0,0
+INC000002,2025-01-04,,New,P2,Medium,Test,Data,Quality,Support,Jordan Lee,8,,0,0,0,65
+INC000003,2025-01-14,2025-01-14,Closed,P2,High,Production,Integration,Quality,Infrastructure,Alex Chen,8,6.7,0,0,0,0
+INC000004,2025-02-18,2025-02-19,Resolved,P4,Medium,Production,Data,,Data,Casey Brown,48,39.1,0,0,0,1
+INC000005,2025-01-14,2025-01-14,Resolved,P2,Medium,UAT,Integration,Quality,Data,Jordan Lee,8,3.0,0,0,0,0
+INC000006,2025-03-01,,In Progress,P2,High,UAT,Access,Sync,Data,Sam Jones,8,,0,0,1,9
+INC000007,2025-03-03,2025-03-03,Closed,P3,Medium,UAT,Integration,Login,Support,Riley Davis,24,13.5,0,0,0,0
+INC000008,2025-02-11,2025-02-11,Closed,P2,High,Production,Access,,Infrastructure,,8,7.8,0,0,0,0
+INC000009,2024-12-24,2024-12-24,Resolved,P2,Medium,UAT,Performance,Login,Platform,Riley Davis,8,7.6,0,0,0,0
+INC000010,2024-12-23,2024-12-23,Resolved,P3,Medium,Test,Performance,Sync,Data,Casey Brown,24,19.6,0,0,1,0
+INC000011,2024-12-12,2024-12-14,Resolved,P4,Medium,Production,Performance,Login,Data,Sam Jones,48,65.6,1,1,0,2
+INC000012,2025-03-04,,Pending,P2,Medium,UAT,Data,Quality,Data,,8,,0,0,0,6
+INC000013,2025-03-03,2025-03-03,Resolved,P2,High,Production,Integration,,Data,Sam Jones,8,3.3,0,0,1,0
+INC000014,2024-12-18,2024-12-18,Resolved,P1,Critical,Dev,Integration,Permissions,Support,Casey Brown,4,3.1,0,0,0,0
+INC000015,2025-01-31,2025-01-31,Resolved,P2,Medium,Production,Access,Sync,Infrastructure,Alex Chen,8,7.7,0,0,0,0
+INC000016,2025-01-10,2025-01-10,Resolved,P2,High,Production,Performance,,Support,Alex Chen,8,7.0,0,0,1,0
+INC000017,2025-01-09,2025-01-09,Resolved,P2,Medium,Production,Performance,Quality,Platform,,8,3.5,0,0,0,0
+INC000018,2025-02-19,2025-02-19,Resolved,P2,High,UAT,Performance,Login,Platform,Alex Chen,8,2.3,0,0,0,0
+INC000019,2025-02-13,2025-02-13,Resolved,P3,Medium,Production,Access,Sync,Infrastructure,Jordan Lee,24,6.7,0,0,0,0
+INC000020,2025-01-05,2025-01-05,Resolved,P2,High,UAT,Performance,Permissions,Support,Riley Davis,8,11.6,1,0,1,0
+INC000021,2025-01-12,2025-01-12,Closed,P1,Critical,Production,Performance,,Support,,4,3.1,0,0,0,0
+INC000022,2025-02-18,2025-02-18,Resolved,P4,Low,Production,Data,Sync,Support,Sam Jones,48,17.4,0,0,0,0
+INC000023,2025-03-07,2025-03-07,Closed,P2,High,UAT,Access,Login,Platform,,8,10.1,1,0,0,0
+INC000024,2025-02-04,2025-02-04,Closed,P1,Critical,UAT,Performance,,Data,Jordan Lee,4,1.4,0,0,0,0
+INC000025,2025-01-05,,New,P2,Medium,UAT,Data,Login,Data,Casey Brown,8,,0,0,0,64
+INC000026,2024-12-13,2024-12-14,Resolved,P3,Low,Production,Integration,,Data,Jordan Lee,24,25.8,1,0,0,1
+INC000027,2025-01-18,2025-01-18,Resolved,P2,High,Test,Integration,Sync,Infrastructure,Alex Chen,8,3.6,0,0,0,0
+INC000028,2024-12-24,2024-12-24,Closed,P3,Low,Test,Access,,Platform,Casey Brown,24,19.8,0,0,0,0
+INC000029,2025-02-21,2025-02-21,Closed,P2,High,Production,Access,Timeout,Support,,8,5.9,0,0,0,0
+INC000030,2025-01-31,2025-01-31,Closed,P3,Medium,Production,Data,,Infrastructure,Jordan Lee,24,21.8,0,0,0,0
+INC000031,2025-01-15,2025-01-15,Resolved,P3,Low,Production,Integration,,Infrastructure,Jordan Lee,24,19.9,0,0,0,0
+INC000032,2025-02-13,2025-02-13,Resolved,P2,High,UAT,Data,,Support,Casey Brown,8,8.6,1,0,0,0
+INC000033,2025-02-01,2025-02-01,Resolved,P3,Low,Test,Data,,Infrastructure,Casey Brown,24,6.1,0,0,0,0
+INC000034,2025-01-07,,New,P3,Medium,Production,Integration,Sync,Data,Casey Brown,24,,0,0,0,62
+INC000035,2025-02-26,2025-02-26,Closed,P2,Medium,Test,Integration,,Data,,8,6.4,0,0,0,0
+INC000036,2025-01-09,2025-01-09,Resolved,P2,Medium,Production,Access,,Support,Casey Brown,8,9.6,1,0,0,0
+INC000037,2025-01-31,,Pending,P1,High,Production,Performance,Quality,Infrastructure,Casey Brown,4,,0,0,1,38
+INC000038,2024-12-10,2024-12-10,Closed,P2,Medium,Dev,Performance,Quality,Data,,8,2.2,0,0,0,0
+INC000039,2024-12-31,2025-01-02,Resolved,P4,Low,Test,Integration,Timeout,Infrastructure,Casey Brown,48,63.8,1,0,0,2
+INC000040,2025-01-20,2025-01-21,Closed,P3,Low,Production,Performance,Sync,Support,Sam Jones,24,26.5,1,1,0,1
+INC000041,2025-03-03,2025-03-03,Resolved,P1,Critical,Production,Integration,Permissions,Data,Casey Brown,4,1.7,0,0,1,0
+INC000042,2025-03-09,,New,P3,Medium,Production,Performance,Quality,Data,Casey Brown,24,,0,0,0,1
+INC000043,2025-01-04,,Pending,P3,Medium,Production,Data,,Support,Jordan Lee,24,,0,0,0,65
+INC000044,2025-02-16,,In Progress,P3,Low,Production,Performance,,Platform,,24,,0,0,0,22
+INC000045,2024-12-29,2024-12-29,Closed,P4,Medium,Production,Data,,Infrastructure,Sam Jones,48,20.6,0,0,0,0
+INC000046,2025-02-07,2025-02-07,Resolved,P2,Medium,UAT,Data,Timeout,Support,Riley Davis,8,3.5,0,0,0,0
+INC000047,2024-12-11,2024-12-11,Resolved,P2,Medium,UAT,Access,,Infrastructure,Jordan Lee,8,5.8,0,0,0,0
+INC000048,2025-01-07,2025-01-07,Closed,P3,Low,Production,Access,Timeout,Infrastructure,Jordan Lee,24,19.1,0,0,0,0
+INC000049,2025-01-11,2025-01-11,Closed,P2,High,Production,Data,,Data,Sam Jones,8,11.5,1,0,0,0
+INC000050,2025-01-16,2025-01-16,Resolved,P1,Critical,Production,Access,,Support,Alex Chen,4,3.0,0,0,0,0
+INC000051,2024-12-11,2024-12-11,Closed,P2,High,UAT,Performance,,Platform,Sam Jones,8,8.7,1,0,0,0
+INC000052,2024-12-29,2024-12-29,Closed,P2,High,Test,Integration,,Platform,Casey Brown,8,6.6,0,0,0,0
+INC000053,2025-01-17,,New,P2,High,Test,Integration,,Platform,Sam Jones,8,,0,0,0,52
+INC000054,2025-01-09,2025-01-09,Resolved,P1,High,Production,Access,Permissions,Infrastructure,Jordan Lee,4,1.8,0,0,1,0
+INC000055,2025-02-28,2025-02-28,Closed,P2,High,UAT,Integration,Timeout,Data,Casey Brown,8,2.4,0,0,0,0
+INC000056,2024-12-25,2024-12-25,Resolved,P2,Medium,UAT,Performance,Permissions,Infrastructure,,8,6.3,0,0,1,0
+INC000057,2025-02-21,2025-02-21,Resolved,P3,Low,UAT,Access,Quality,Platform,,24,17.4,0,0,0,0
+INC000058,2025-02-10,,In Progress,P2,Medium,Dev,Performance,Quality,Platform,Riley Davis,8,,0,0,0,28
+INC000059,2024-12-14,2024-12-14,Closed,P2,Medium,UAT,Performance,,Platform,Alex Chen,8,3.1,0,0,0,0
+INC000060,2025-01-05,2025-01-05,Resolved,P2,Medium,Production,Access,Permissions,Platform,Alex Chen,8,3.8,0,1,0,0
+INC000061,2025-02-07,2025-02-07,Closed,P2,Medium,Dev,Data,Login,Support,Alex Chen,8,3.4,0,0,0,0
+INC000062,2025-01-14,2025-01-14,Closed,P2,Medium,Test,Integration,,Platform,Riley Davis,8,5.4,0,0,0,0
+INC000063,2025-02-09,,Pending,P3,Low,Production,Data,Quality,Support,Alex Chen,24,,0,0,0,29
+INC000064,2025-01-19,2025-01-19,Resolved,P3,Low,Test,Data,,Data,Alex Chen,24,22.9,0,0,1,0
+INC000065,2025-02-15,2025-02-15,Closed,P2,High,Dev,Access,Quality,Platform,Jordan Lee,8,6.0,0,0,0,0
+INC000066,2025-02-28,2025-02-28,Closed,P3,Medium,Test,Data,,Platform,Casey Brown,24,19.1,0,0,1,0
+INC000067,2024-12-31,2024-12-31,Closed,P1,Critical,UAT,Integration,Login,Support,Sam Jones,4,5.6,1,0,0,0
+INC000068,2024-12-20,2024-12-20,Closed,P3,Low,UAT,Performance,Timeout,Data,,24,17.7,0,0,0,0
+INC000069,2025-02-17,2025-02-17,Closed,P2,Medium,Production,Performance,Permissions,Infrastructure,Casey Brown,8,3.2,0,0,0,0
+INC000070,2025-02-21,2025-02-21,Resolved,P3,Medium,Production,Performance,Permissions,Infrastructure,Riley Davis,24,19.1,0,0,0,0
+INC000071,2025-01-24,,Pending,P2,High,Production,Access,,Platform,Riley Davis,8,,0,1,0,45
+INC000072,2025-01-25,2025-01-25,Closed,P2,Medium,Test,Access,,Data,Jordan Lee,8,7.3,0,0,0,0
+INC000073,2025-01-22,,Pending,P1,Critical,Test,Performance,,Infrastructure,Jordan Lee,4,,0,0,0,47
+INC000074,2025-02-16,,In Progress,P3,Low,Production,Performance,,Infrastructure,Riley Davis,24,,0,0,0,22
+INC000075,2025-02-19,2025-02-20,Resolved,P3,Low,Production,Data,,Support,Sam Jones,24,40.0,1,0,0,1
+INC000076,2025-02-16,,Pending,P3,Low,Production,Performance,Quality,Data,Jordan Lee,24,,0,0,0,22
+INC000077,2024-12-14,2024-12-14,Closed,P2,High,UAT,Access,Permissions,Support,Alex Chen,8,7.7,0,0,0,0
+INC000078,2025-02-06,2025-02-06,Resolved,P3,Medium,Production,Access,Permissions,Platform,Riley Davis,24,19.8,0,0,0,0
+INC000079,2025-01-06,,New,P3,Medium,Test,Access,Login,Support,Alex Chen,24,,0,0,0,63
+INC000080,2025-03-04,2025-03-04,Closed,P2,High,Test,Access,,Support,Casey Brown,8,12.3,1,0,0,0
+INC000081,2025-01-25,2025-01-26,Resolved,P3,Medium,UAT,Access,,Support,,24,32.7,1,0,0,1
+INC000082,2025-02-04,2025-02-04,Closed,P3,Medium,Production,Access,Quality,Data,Alex Chen,24,16.5,0,0,0,0
+INC000083,2025-03-09,2025-03-09,Resolved,P3,Medium,Production,Data,Sync,Infrastructure,Casey Brown,24,20.5,0,0,0,0
+INC000084,2025-01-19,2025-01-19,Resolved,P2,Medium,UAT,Performance,,Platform,Riley Davis,8,8.9,1,0,0,0
+INC000085,2025-02-19,,Pending,P2,Medium,UAT,Data,Permissions,Platform,Sam Jones,8,,0,0,1,19
+INC000086,2025-03-04,2025-03-04,Resolved,P2,Medium,UAT,Integration,,Platform,Riley Davis,8,6.9,0,0,0,0
+INC000087,2025-03-04,2025-03-04,Resolved,P2,Medium,Test,Access,,Support,Alex Chen,8,5.3,0,0,0,0
+INC000088,2025-02-15,2025-02-15,Resolved,P2,Medium,Production,Performance,,Support,Jordan Lee,8,2.9,0,0,1,0
+INC000089,2025-02-04,2025-02-04,Resolved,P2,Medium,UAT,Performance,Timeout,Data,Alex Chen,8,2.6,0,0,0,0
+INC000090,2025-01-07,2025-01-07,Closed,P1,High,Production,Data,Login,Data,Casey Brown,4,1.4,0,0,0,0
+INC000091,2025-02-16,2025-02-16,Resolved,P3,Low,Test,Performance,Quality,Platform,Riley Davis,24,14.1,0,0,0,0
+INC000092,2025-01-30,2025-01-30,Closed,P2,High,Test,Performance,Permissions,Support,Casey Brown,8,7.4,0,0,0,0
+INC000093,2025-02-23,2025-02-24,Resolved,P3,Low,Production,Access,Sync,Data,Jordan Lee,24,35.1,1,0,0,1
+INC000094,2025-03-02,2025-03-02,Resolved,P2,High,Test,Access,,Data,,8,6.5,0,0,0,0
+INC000095,2025-02-20,2025-02-20,Closed,P2,Medium,UAT,Integration,,Data,Jordan Lee,8,3.8,0,0,1,0
+INC000096,2025-02-07,2025-02-07,Closed,P3,Medium,UAT,Access,,Platform,Riley Davis,24,15.7,0,0,0,0
+INC000097,2025-03-03,2025-03-03,Closed,P3,Medium,Production,Data,,Infrastructure,Casey Brown,24,7.5,0,0,1,0
+INC000098,2025-02-15,2025-02-15,Closed,P2,Medium,UAT,Access,Sync,Infrastructure,Alex Chen,8,2.3,0,0,0,0
+INC000099,2025-02-19,2025-02-19,Resolved,P3,Medium,UAT,Performance,Login,Support,Riley Davis,24,11.4,0,0,0,0
+INC000100,2024-12-20,2024-12-20,Closed,P3,Medium,Production,Performance,Sync,Platform,Casey Brown,24,6.3,0,0,0,0
+INC000101,2025-01-03,2025-01-03,Resolved,P1,Critical,Production,Access,Login,Platform,,4,1.5,0,0,0,0
+INC000102,2025-02-04,2025-02-05,Closed,P3,Low,Production,Performance,Permissions,Support,Jordan Lee,24,28.9,1,0,0,1
+INC000103,2025-03-06,2025-03-06,Closed,P2,Medium,Dev,Integration,Timeout,Infrastructure,Alex Chen,8,6.8,0,0,0,0
+INC000104,2025-03-02,2025-03-05,Resolved,P4,Low,UAT,Performance,Permissions,Support,Casey Brown,48,78.6,1,0,0,3
+INC000105,2025-01-23,2025-01-23,Resolved,P2,Medium,Dev,Performance,Sync,Data,Sam Jones,8,2.2,0,0,0,0
+INC000106,2024-12-27,2024-12-27,Resolved,P2,High,Production,Integration,Quality,Infrastructure,Alex Chen,8,2.1,0,0,0,0
+INC000107,2025-01-15,2025-01-15,Closed,P2,Medium,Production,Access,Login,Platform,Jordan Lee,8,2.1,0,0,0,0
+INC000108,2025-02-02,2025-02-03,Closed,P3,Medium,Production,Performance,,Platform,Casey Brown,24,33.4,1,0,0,1
+INC000109,2025-02-08,2025-02-08,Closed,P2,High,Production,Performance,Sync,Support,Sam Jones,8,11.8,1,0,0,0
+INC000110,2024-12-15,2024-12-16,Resolved,P3,Low,Production,Performance,,Infrastructure,Sam Jones,24,37.3,1,0,0,1
+INC000111,2024-12-15,2024-12-15,Resolved,P2,Medium,Production,Performance,Timeout,Support,Alex Chen,8,12.9,1,1,0,0
+INC000112,2025-01-26,,In Progress,P2,Medium,Production,Performance,Timeout,Support,Alex Chen,8,,0,0,0,43
+INC000113,2025-02-02,2025-02-02,Closed,P3,Low,Production,Data,,Support,Jordan Lee,24,11.4,0,0,0,0
+INC000114,2025-02-05,2025-02-05,Resolved,P2,Medium,Production,Integration,Login,Support,Alex Chen,8,11.7,1,0,0,0
+INC000115,2024-12-28,2024-12-28,Closed,P2,High,Test,Data,,Platform,Jordan Lee,8,7.5,0,1,0,0
+INC000116,2025-01-26,2025-01-26,Closed,P2,Medium,Production,Access,Quality,Infrastructure,Riley Davis,8,9.0,1,0,0,0
+INC000117,2024-12-25,2024-12-25,Resolved,P2,Medium,Production,Access,,Infrastructure,,8,4.6,0,0,0,0
+INC000118,2025-01-19,,Pending,P3,Low,UAT,Data,Login,Support,Jordan Lee,24,,0,0,0,50
+INC000119,2025-02-13,2025-02-13,Closed,P3,Medium,Production,Integration,,Infrastructure,Jordan Lee,24,23.2,0,0,0,0
+INC000120,2025-01-29,2025-01-29,Closed,P3,Low,Dev,Data,Login,Platform,Sam Jones,24,13.9,0,0,0,0
+INC000121,2025-02-03,2025-02-03,Closed,P3,Medium,UAT,Integration,Timeout,Support,Alex Chen,24,10.0,0,0,0,0
+INC000122,2025-01-11,2025-01-11,Resolved,P2,Medium,Production,Integration,Sync,Platform,Riley Davis,8,5.4,0,0,0,0
+INC000123,2024-12-15,2024-12-15,Closed,P1,High,Test,Access,Timeout,Data,Casey Brown,4,1.1,0,0,0,0
+INC000124,2025-01-10,2025-01-10,Closed,P2,High,Test,Data,Sync,Platform,,8,3.2,0,0,0,0
+INC000125,2025-01-23,2025-01-23,Resolved,P2,High,Dev,Access,Quality,Support,Riley Davis,8,3.4,0,0,0,0
+INC000126,2025-02-01,2025-02-01,Resolved,P2,Medium,Production,Integration,,Support,Alex Chen,8,5.0,0,0,0,0
+INC000127,2025-01-29,2025-01-29,Closed,P2,Medium,UAT,Integration,,Platform,Alex Chen,8,6.9,0,0,0,0
+INC000128,2025-02-03,2025-02-03,Resolved,P2,Medium,Production,Access,,Support,Riley Davis,8,3.1,0,0,1,0
+INC000129,2025-01-14,2025-01-14,Closed,P3,Medium,Test,Data,Quality,Platform,Riley Davis,24,12.4,0,0,0,0
+INC000130,2024-12-15,2024-12-15,Resolved,P2,Medium,Production,Access,Timeout,Infrastructure,Riley Davis,8,5.6,0,0,0,0
+INC000131,2025-01-22,,In Progress,P2,Medium,UAT,Performance,Quality,Infrastructure,Riley Davis,8,,0,0,1,47
+INC000132,2025-01-18,2025-01-18,Resolved,P3,Medium,Test,Data,Quality,Infrastructure,Sam Jones,24,16.2,0,0,0,0
+INC000133,2025-03-07,2025-03-08,Closed,P3,Medium,Production,Data,,Platform,,24,36.0,1,0,0,1
+INC000134,2024-12-17,2024-12-17,Resolved,P3,Low,Test,Performance,Timeout,Infrastructure,Riley Davis,24,15.3,0,0,0,0
+INC000135,2025-02-09,2025-02-09,Resolved,P3,Medium,Production,Access,Timeout,Support,Jordan Lee,24,14.6,0,0,0,0
+INC000136,2024-12-25,,New,P4,Medium,UAT,Data,,Support,Jordan Lee,48,,0,0,0,75
+INC000137,2025-02-04,2025-02-04,Resolved,P2,Medium,UAT,Data,,Support,Alex Chen,8,5.9,0,0,0,0
+INC000138,2025-01-31,,New,P3,Medium,Production,Performance,,Platform,Casey Brown,24,,0,0,0,38
+INC000139,2025-03-03,2025-03-03,Resolved,P2,High,Production,Integration,Login,Platform,Casey Brown,8,6.2,0,0,0,0
+INC000140,2025-01-01,,In Progress,P3,Low,Dev,Access,,Data,Jordan Lee,24,,0,0,1,68
+INC000141,2025-01-15,2025-01-15,Resolved,P3,Medium,UAT,Data,,Infrastructure,,24,18.8,0,0,0,0
+INC000142,2025-01-22,,Pending,P3,Medium,Test,Data,,Infrastructure,Sam Jones,24,,0,0,0,47
+INC000143,2024-12-27,2024-12-27,Closed,P1,High,UAT,Integration,Sync,Data,,4,1.9,0,0,1,0
+INC000144,2025-01-09,2025-01-09,Closed,P2,Medium,Production,Access,,Support,,8,3.3,0,0,0,0
+INC000145,2025-02-25,2025-02-26,Resolved,P4,Low,Production,Data,,Data,Alex Chen,48,30.5,0,0,0,1
+INC000146,2025-02-18,,In Progress,P3,Medium,Dev,Access,,Support,Alex Chen,24,,0,0,0,20
+INC000147,2025-02-13,2025-02-13,Closed,P2,Medium,Production,Access,,Infrastructure,,8,3.8,0,1,0,0
+INC000148,2025-01-06,,New,P2,High,UAT,Access,Timeout,Platform,Casey Brown,8,,0,0,0,63
+INC000149,2025-01-02,,In Progress,P4,Medium,Test,Data,Quality,Support,Casey Brown,48,,0,0,0,67
+INC000150,2024-12-20,2024-12-20,Closed,P3,Low,UAT,Data,,Platform,Jordan Lee,24,18.8,0,0,1,0
+INC000151,2025-02-07,2025-02-07,Resolved,P3,Medium,UAT,Data,Quality,Data,Riley Davis,24,22.4,0,0,1,0
+INC000152,2024-12-12,2024-12-12,Resolved,P3,Low,Production,Access,,Platform,Sam Jones,24,10.1,0,0,0,0
+INC000153,2025-02-12,2025-02-13,Resolved,P4,Medium,Dev,Access,Login,Support,,48,30.3,0,0,0,1
+INC000154,2025-03-06,2025-03-08,Closed,P4,Medium,Production,Performance,Permissions,Support,Jordan Lee,48,62.1,1,0,0,2
+INC000155,2024-12-28,2024-12-29,Closed,P3,Low,Test,Integration,,Data,Riley Davis,24,35.3,1,0,0,1
+INC000156,2025-01-03,2025-01-03,Resolved,P3,Medium,Production,Performance,,Platform,Sam Jones,24,21.2,0,0,0,0
+INC000157,2025-01-03,2025-01-03,Resolved,P4,Medium,Dev,Access,,Data,Riley Davis,48,20.4,0,0,0,0
+INC000158,2025-03-03,2025-03-03,Closed,P3,Low,Production,Access,,Infrastructure,Riley Davis,24,11.6,0,0,0,0
+INC000159,2025-01-07,2025-01-07,Closed,P3,Low,Test,Access,Sync,Support,Jordan Lee,24,16.0,0,0,0,0
+INC000160,2025-02-10,2025-02-10,Closed,P2,High,Dev,Data,,Support,Alex Chen,8,7.2,0,0,0,0
+INC000161,2025-03-05,2025-03-05,Resolved,P2,High,Production,Access,,Platform,,8,10.8,1,1,0,0
+INC000162,2025-02-10,2025-02-10,Closed,P2,High,Production,Performance,Login,Support,Alex Chen,8,12.6,1,0,0,0
+INC000163,2024-12-22,2024-12-23,Closed,P3,Low,UAT,Access,Permissions,Support,Jordan Lee,24,40.2,1,0,0,1
+INC000164,2025-03-07,2025-03-07,Closed,P4,Low,Test,Access,,Platform,Casey Brown,48,14.0,0,1,0,0
+INC000165,2025-03-02,2025-03-02,Closed,P3,Medium,Test,Data,,Platform,Sam Jones,24,22.2,0,0,0,0
+INC000166,2025-01-19,2025-01-19,Resolved,P2,Medium,Production,Access,Quality,Platform,,8,7.0,0,0,0,0
+INC000167,2024-12-27,2024-12-27,Resolved,P1,High,Test,Data,Quality,Platform,Jordan Lee,4,2.0,0,0,0,0
+INC000168,2024-12-13,2024-12-13,Closed,P2,High,UAT,Integration,Timeout,Support,Sam Jones,8,6.0,0,0,1,0
+INC000169,2024-12-19,2024-12-20,Resolved,P3,Medium,Production,Access,,Infrastructure,Sam Jones,24,39.9,1,0,0,1
+INC000170,2024-12-21,2024-12-21,Closed,P3,Low,Production,Performance,,Platform,Jordan Lee,24,16.5,0,0,0,0
+INC000171,2025-01-31,2025-02-02,Resolved,P4,Low,Production,Access,Quality,Data,Jordan Lee,48,59.8,1,0,1,2
+INC000172,2025-02-01,2025-02-01,Resolved,P2,High,Production,Integration,Quality,Infrastructure,Jordan Lee,8,2.8,0,1,0,0
+INC000173,2025-02-04,2025-02-04,Resolved,P3,Medium,Production,Integration,,Support,Riley Davis,24,9.1,0,0,0,0
+INC000174,2025-01-10,,New,P3,Low,Production,Performance,,Platform,,24,,0,0,0,59
+INC000175,2025-02-07,2025-02-07,Resolved,P3,Medium,Dev,Access,Quality,Infrastructure,Alex Chen,24,10.2,0,0,0,0
+INC000176,2025-02-05,2025-02-05,Closed,P2,Medium,Dev,Performance,,Platform,Sam Jones,8,6.7,0,0,0,0
+INC000177,2025-03-04,,In Progress,P3,Low,UAT,Access,Permissions,Support,Riley Davis,24,,0,0,1,6
+INC000178,2025-02-14,2025-02-14,Resolved,P2,Medium,UAT,Data,,Infrastructure,Alex Chen,8,2.1,0,0,0,0
+INC000179,2024-12-28,2024-12-28,Closed,P3,Low,Production,Performance,,Support,Alex Chen,24,13.9,0,1,1,0
+INC000180,2025-01-22,2025-01-22,Closed,P2,High,UAT,Data,Login,Data,Sam Jones,8,7.6,0,0,0,0
+INC000181,2025-03-01,2025-03-02,Closed,P3,Medium,UAT,Performance,,Infrastructure,Riley Davis,24,28.6,1,0,0,1
+INC000182,2024-12-23,2024-12-23,Closed,P2,High,Test,Performance,,Infrastructure,Jordan Lee,8,5.7,0,0,0,0
+INC000183,2025-01-24,2025-01-25,Closed,P3,Low,Test,Data,Quality,Platform,Casey Brown,24,30.0,1,0,0,1
+INC000184,2025-02-24,2025-02-24,Resolved,P2,High,Production,Performance,,Data,Casey Brown,8,12.8,1,0,0,0
+INC000185,2024-12-27,2024-12-27,Closed,P3,Low,Production,Performance,Permissions,Infrastructure,Jordan Lee,24,13.8,0,0,0,0
+INC000186,2024-12-14,2024-12-14,Resolved,P2,Medium,Production,Performance,,Infrastructure,,8,3.6,0,0,0,0
+INC000187,2025-02-04,,New,P2,High,UAT,Integration,,Support,Casey Brown,8,,0,0,0,34
+INC000188,2024-12-25,2024-12-25,Resolved,P3,Low,Test,Access,Timeout,Infrastructure,Riley Davis,24,20.3,0,0,0,0
+INC000189,2025-02-16,2025-02-16,Closed,P2,Medium,Production,Integration,Login,Platform,Sam Jones,8,7.8,0,0,0,0
+INC000190,2024-12-28,2024-12-28,Closed,P3,Low,Test,Integration,,Infrastructure,Casey Brown,24,12.6,0,0,0,0
+INC000191,2025-02-13,2025-02-13,Resolved,P3,Low,Test,Data,Sync,Infrastructure,Alex Chen,24,20.8,0,0,0,0
+INC000192,2025-02-16,2025-02-17,Closed,P3,Low,Production,Integration,Sync,Support,,24,34.2,1,0,0,1
+INC000193,2024-12-16,,New,P3,Medium,Production,Data,Quality,Platform,Sam Jones,24,,0,0,1,84
+INC000194,2025-03-08,2025-03-08,Closed,P2,Medium,Dev,Integration,Timeout,Platform,,8,11.9,1,0,1,0
+INC000195,2025-03-09,2025-03-09,Resolved,P2,High,Test,Performance,Sync,Platform,Alex Chen,8,9.6,1,0,1,0
+INC000196,2025-02-02,2025-02-02,Closed,P2,High,UAT,Performance,Login,Platform,,8,2.8,0,0,0,0
+INC000197,2025-03-06,2025-03-06,Resolved,P1,Critical,Production,Performance,Permissions,Infrastructure,Alex Chen,4,1.4,0,0,0,0
+INC000198,2024-12-22,2024-12-23,Resolved,P3,Low,Production,Access,Timeout,Infrastructure,,24,35.3,1,0,0,1
+INC000199,2024-12-13,2024-12-13,Resolved,P2,High,Test,Data,Permissions,Infrastructure,Casey Brown,8,6.6,0,0,0,0
+INC000200,2025-03-01,2025-03-02,Closed,P4,Medium,UAT,Performance,,Support,Alex Chen,48,35.9,0,0,0,1
+INC000201,2025-02-23,2025-02-23,Closed,P1,Critical,Production,Access,Login,Infrastructure,Jordan Lee,4,2.2,0,0,0,0
+INC000202,2024-12-20,2024-12-20,Resolved,P2,High,Production,Performance,Permissions,Support,Alex Chen,8,10.7,1,0,0,0
+INC000203,2025-02-03,2025-02-03,Resolved,P1,Critical,Production,Data,Timeout,Platform,Sam Jones,4,1.5,0,0,0,0
+INC000204,2025-01-26,2025-01-26,Closed,P2,High,Production,Integration,,Platform,Casey Brown,8,8.7,1,0,0,0
+INC000205,2025-02-06,2025-02-06,Resolved,P3,Medium,UAT,Access,,Support,Alex Chen,24,17.8,0,0,0,0
+INC000206,2024-12-11,,New,P2,High,Production,Performance,Quality,Data,Sam Jones,8,,0,0,0,89
+INC000207,2025-01-20,2025-01-20,Resolved,P2,High,Production,Integration,,Support,Casey Brown,8,12.6,1,0,0,0
+INC000208,2025-01-15,2025-01-15,Closed,P2,Medium,Test,Performance,,Platform,Sam Jones,8,3.8,0,0,0,0
+INC000209,2025-02-17,2025-02-17,Closed,P1,High,Test,Access,Quality,Platform,,4,3.0,0,1,0,0
+INC000210,2025-01-18,,New,P2,Medium,Production,Performance,Permissions,Platform,Riley Davis,8,,0,0,1,51
+INC000211,2025-01-31,2025-02-02,Closed,P4,Low,Test,Performance,Permissions,Platform,Jordan Lee,48,68.1,1,0,0,2
+INC000212,2025-01-12,2025-01-12,Resolved,P2,Medium,Test,Integration,Login,Support,Alex Chen,8,9.5,1,0,0,0
+INC000213,2024-12-31,2024-12-31,Closed,P2,Medium,Production,Performance,,Data,Sam Jones,8,9.0,1,0,0,0
+INC000214,2025-01-20,2025-01-20,Closed,P4,Medium,Production,Data,Permissions,Platform,Alex Chen,48,18.1,0,0,0,0
+INC000215,2025-02-07,2025-02-07,Closed,P2,High,Production,Integration,Timeout,Data,Alex Chen,8,11.7,1,0,0,0
+INC000216,2024-12-12,,In Progress,P3,Medium,Dev,Access,,Platform,Sam Jones,24,,0,0,0,88
+INC000217,2025-02-21,2025-02-21,Resolved,P2,Medium,Production,Data,Permissions,Infrastructure,,8,3.6,0,0,0,0
+INC000218,2025-01-16,2025-01-16,Closed,P2,High,UAT,Integration,,Support,Casey Brown,8,13.0,1,0,0,0
+INC000219,2025-01-24,2025-01-24,Resolved,P2,Medium,UAT,Integration,,Infrastructure,Casey Brown,8,3.3,0,0,0,0
+INC000220,2025-02-15,2025-02-15,Resolved,P2,High,Production,Data,Permissions,Platform,Riley Davis,8,12.6,1,0,1,0
+INC000221,2025-01-28,2025-01-28,Closed,P3,Medium,Production,Integration,Login,Data,Riley Davis,24,6.5,0,0,0,0
+INC000222,2025-01-03,2025-01-05,Resolved,P4,Medium,Test,Integration,Sync,Data,Riley Davis,48,69.2,1,1,0,2
+INC000223,2025-01-04,2025-01-04,Resolved,P2,Medium,Test,Performance,Sync,Platform,,8,6.9,0,0,0,0
+INC000224,2025-03-04,2025-03-04,Closed,P2,High,Production,Access,Sync,Data,Sam Jones,8,7.6,0,0,0,0
+INC000225,2025-03-05,2025-03-05,Resolved,P2,Medium,UAT,Access,,Data,Sam Jones,8,7.5,0,0,0,0
+INC000226,2025-02-25,2025-02-26,Resolved,P3,Medium,Production,Integration,,Infrastructure,,24,40.5,1,0,0,1
+INC000227,2025-03-05,2025-03-05,Resolved,P2,Medium,UAT,Integration,,Data,,8,6.6,0,0,1,0
+INC000228,2025-02-01,2025-02-01,Resolved,P2,Medium,Dev,Integration,Permissions,Support,Sam Jones,8,6.6,0,0,0,0
+INC000229,2025-02-05,,New,P2,Medium,Production,Integration,Login,Support,,8,,0,0,0,33
+INC000230,2024-12-19,2024-12-19,Resolved,P2,Medium,UAT,Integration,Permissions,Platform,Casey Brown,8,4.5,0,1,0,0
+INC000231,2025-03-09,2025-03-09,Resolved,P3,Low,UAT,Integration,,Support,Casey Brown,24,15.6,0,0,1,0
+INC000232,2024-12-21,2024-12-21,Resolved,P3,Medium,Production,Data,Quality,Platform,Casey Brown,24,23.1,0,0,1,0
+INC000233,2025-02-10,2025-02-10,Closed,P3,Low,Test,Access,Permissions,Data,Jordan Lee,24,13.8,0,0,0,0
+INC000234,2025-02-20,,In Progress,P3,Medium,Production,Data,,Support,Casey Brown,24,,0,0,0,18
+INC000235,2025-02-14,2025-02-15,Resolved,P3,Low,Production,Performance,Login,Data,Alex Chen,24,38.5,1,1,0,1
+INC000236,2025-02-05,2025-02-06,Resolved,P4,Low,Production,Integration,Timeout,Data,Jordan Lee,48,27.3,0,0,0,1
+INC000237,2024-12-18,,New,P3,Low,Production,Data,Quality,Infrastructure,Alex Chen,24,,0,0,0,82
+INC000238,2025-02-01,2025-02-01,Resolved,P3,Medium,Production,Data,Timeout,Platform,Casey Brown,24,21.2,0,0,0,0
+INC000239,2025-03-03,2025-03-03,Closed,P1,High,UAT,Data,,Infrastructure,Jordan Lee,4,6.5,1,0,0,0
+INC000240,2025-01-26,,Pending,P2,Medium,Production,Integration,Login,Infrastructure,Jordan Lee,8,,0,0,0,43
+INC000241,2025-02-04,2025-02-04,Closed,P3,Medium,Test,Performance,Login,Data,Alex Chen,24,19.3,0,0,0,0
+INC000242,2025-01-18,2025-01-18,Resolved,P3,Medium,Test,Performance,Permissions,Data,Jordan Lee,24,10.4,0,0,0,0
+INC000243,2025-01-26,2025-01-26,Closed,P3,Medium,Test,Performance,Sync,Platform,Jordan Lee,24,9.1,0,0,0,0
+INC000244,2024-12-30,2024-12-30,Resolved,P3,Medium,Test,Access,Permissions,Support,,24,16.0,0,0,0,0
+INC000245,2025-01-05,,Pending,P1,Critical,Production,Performance,Permissions,Infrastructure,Jordan Lee,4,,0,0,0,64
+INC000246,2025-02-25,,In Progress,P4,Medium,Test,Performance,Timeout,Infrastructure,,48,,0,0,0,13
+INC000247,2025-02-14,2025-02-14,Resolved,P2,Medium,Test,Performance,Timeout,Support,Jordan Lee,8,4.0,0,0,0,0
+INC000248,2025-03-03,,Pending,P2,High,Test,Integration,Login,Data,,8,,0,0,0,7
+INC000249,2024-12-13,2024-12-13,Resolved,P2,Medium,UAT,Integration,Permissions,Infrastructure,,8,7.8,0,0,0,0
+INC000250,2025-02-16,,Pending,P4,Medium,UAT,Performance,,Support,Casey Brown,48,,0,0,0,22
+INC000251,2024-12-26,2024-12-26,Resolved,P3,Medium,Test,Data,Sync,Support,Jordan Lee,24,19.0,0,0,0,0
+INC000252,2025-01-12,2025-01-12,Resolved,P2,High,UAT,Performance,,Platform,Sam Jones,8,7.1,0,0,0,0
+INC000253,2024-12-27,2024-12-28,Resolved,P4,Medium,Dev,Performance,,Data,Alex Chen,48,29.1,0,0,0,1
+INC000254,2025-02-05,2025-02-05,Resolved,P2,High,Production,Data,,Infrastructure,Casey Brown,8,10.7,1,0,0,0
+INC000255,2024-12-10,2024-12-10,Resolved,P2,High,Production,Access,Sync,Support,Jordan Lee,8,8.4,1,0,0,0
+INC000256,2024-12-26,2024-12-26,Closed,P2,High,Production,Performance,Login,Platform,Jordan Lee,8,5.0,0,0,0,0
+INC000257,2025-02-10,2025-02-12,Resolved,P4,Medium,Production,Access,,Platform,Casey Brown,48,51.1,1,0,0,2
+INC000258,2025-03-01,2025-03-01,Resolved,P1,Critical,Production,Performance,Timeout,Platform,Casey Brown,4,4.5,1,0,0,0
+INC000259,2025-03-09,2025-03-09,Closed,P3,Low,Production,Data,,Infrastructure,Jordan Lee,24,18.3,0,0,0,0
+INC000260,2024-12-24,2024-12-24,Closed,P3,Low,Test,Performance,,Data,Jordan Lee,24,6.7,0,0,0,0
+INC000261,2025-01-09,,Pending,P4,Medium,Production,Data,Timeout,Data,,48,,0,0,0,60
+INC000262,2025-01-08,,New,P2,High,UAT,Integration,Sync,Platform,Casey Brown,8,,0,0,0,61
+INC000263,2024-12-24,2024-12-24,Closed,P1,Critical,Production,Data,Sync,Data,Sam Jones,4,1.8,0,0,0,0
+INC000264,2024-12-24,2024-12-24,Resolved,P2,Medium,Production,Integration,Login,Infrastructure,Alex Chen,8,12.0,1,1,0,0
+INC000265,2025-02-01,2025-02-01,Closed,P3,Low,Dev,Performance,Login,Data,Casey Brown,24,21.1,0,0,0,0
+INC000266,2025-02-10,2025-02-10,Resolved,P1,High,Production,Performance,,Support,Casey Brown,4,3.0,0,0,0,0
+INC000267,2025-03-04,,Pending,P3,Low,Test,Performance,,Data,,24,,0,0,0,6
+INC000268,2024-12-30,2024-12-30,Closed,P2,High,UAT,Performance,Quality,Platform,Casey Brown,8,13.4,1,1,0,0
+INC000269,2025-01-09,2025-01-09,Resolved,P3,Medium,Production,Performance,,Infrastructure,Riley Davis,24,19.1,0,1,0,0
+INC000270,2025-02-18,2025-02-18,Closed,P3,Low,Production,Access,,Data,Jordan Lee,24,12.4,0,1,0,0
+INC000271,2025-02-19,2025-02-20,Resolved,P3,Low,Test,Data,Sync,Infrastructure,,24,30.7,1,0,0,1
+INC000272,2024-12-23,2024-12-23,Resolved,P2,Medium,Production,Access,Permissions,Platform,,8,13.2,1,0,0,0
+INC000273,2025-01-22,2025-01-22,Resolved,P4,Low,Production,Performance,Quality,Infrastructure,Riley Davis,48,12.2,0,0,0,0
+INC000274,2025-02-09,2025-02-10,Closed,P4,Low,Dev,Integration,Permissions,Data,Jordan Lee,48,25.5,0,0,0,1
+INC000275,2025-01-29,2025-01-29,Closed,P2,High,Dev,Integration,Permissions,Data,Sam Jones,8,5.2,0,0,0,0
+INC000276,2025-01-05,2025-01-05,Closed,P2,High,UAT,Performance,Quality,Data,,8,6.4,0,0,0,0
+INC000277,2025-02-16,2025-02-16,Resolved,P3,Medium,Production,Integration,Timeout,Platform,,24,9.5,0,0,0,0
+INC000278,2025-01-11,2025-01-12,Closed,P3,Medium,Production,Access,Quality,Platform,Sam Jones,24,38.7,1,0,0,1
+INC000279,2025-02-13,2025-02-13,Closed,P2,High,Test,Integration,,Infrastructure,Sam Jones,8,2.3,0,0,0,0
+INC000280,2025-03-01,2025-03-01,Resolved,P3,Medium,Test,Data,,Data,Casey Brown,24,7.3,0,0,0,0
+INC000281,2024-12-15,2024-12-15,Resolved,P2,Medium,Production,Data,Timeout,Platform,Casey Brown,8,13.2,1,0,0,0
+INC000282,2025-02-21,2025-02-21,Resolved,P3,Medium,UAT,Access,Permissions,Data,,24,15.4,0,0,0,0
+INC000283,2025-01-21,2025-01-22,Closed,P4,Medium,Production,Performance,,Platform,,48,43.7,0,0,0,1
+INC000284,2025-01-20,2025-01-20,Closed,P2,Medium,Production,Integration,Permissions,Support,Jordan Lee,8,5.0,0,0,0,0
+INC000285,2025-02-13,2025-02-14,Resolved,P4,Low,Production,Access,Quality,Platform,,48,26.9,0,0,0,1
+INC000286,2024-12-19,2024-12-19,Resolved,P2,Medium,Test,Access,Timeout,Platform,Casey Brown,8,3.5,0,0,0,0
+INC000287,2025-01-28,2025-01-28,Resolved,P2,Medium,UAT,Performance,,Platform,Jordan Lee,8,5.4,0,0,1,0
+INC000288,2025-03-07,2025-03-07,Resolved,P3,Low,Production,Access,Timeout,Infrastructure,,24,15.3,0,0,0,0
+INC000289,2024-12-28,2024-12-30,Resolved,P4,Medium,Production,Integration,,Platform,Jordan Lee,48,50.6,1,0,0,2
+INC000290,2025-01-05,2025-01-05,Resolved,P2,Medium,Test,Integration,,Data,Riley Davis,8,3.5,0,0,0,0
+INC000291,2025-02-07,2025-02-07,Closed,P3,Low,UAT,Access,Timeout,Platform,Riley Davis,24,12.3,0,0,0,0
+INC000292,2024-12-18,2024-12-18,Closed,P2,Medium,Dev,Performance,Permissions,Data,,8,7.6,0,0,0,0
+INC000293,2025-03-02,2025-03-02,Closed,P2,Medium,Production,Integration,,Infrastructure,Jordan Lee,8,4.8,0,0,0,0
+INC000294,2024-12-27,,Pending,P3,Medium,Test,Access,Quality,Platform,Riley Davis,24,,0,0,0,73
+INC000295,2025-01-06,2025-01-06,Resolved,P3,Low,Dev,Data,,Data,Casey Brown,24,16.3,0,0,0,0
+INC000296,2025-01-25,2025-01-25,Resolved,P3,Medium,UAT,Data,,Data,Jordan Lee,24,15.9,0,0,0,0
+INC000297,2024-12-15,2024-12-15,Resolved,P1,High,Production,Performance,,Data,Alex Chen,4,3.3,0,0,0,0
+INC000298,2025-03-03,2025-03-03,Resolved,P3,Low,Production,Data,,Support,Riley Davis,24,12.6,0,0,0,0
+INC000299,2025-01-11,2025-01-11,Closed,P3,Low,Production,Integration,Permissions,Support,Alex Chen,24,6.1,0,0,0,0
+INC000300,2025-02-13,2025-02-13,Closed,P2,Medium,UAT,Access,Permissions,Platform,Riley Davis,8,6.2,0,0,0,0
+INC000301,2024-12-30,2024-12-30,Resolved,P2,High,UAT,Performance,Quality,Data,Riley Davis,8,2.9,0,0,0,0
+INC000302,2025-02-20,2025-02-20,Closed,P3,Low,UAT,Integration,Login,Platform,Riley Davis,24,9.0,0,0,0,0
+INC000303,2025-03-04,2025-03-05,Closed,P3,Low,UAT,Access,Quality,Platform,Sam Jones,24,25.5,1,0,0,1
+INC000304,2025-02-25,2025-02-25,Resolved,P3,Medium,Production,Performance,Quality,Platform,Riley Davis,24,15.4,0,1,0,0
+INC000305,2025-02-01,2025-02-01,Closed,P3,Medium,Production,Access,,Infrastructure,Casey Brown,24,20.1,0,0,0,0
+INC000306,2024-12-27,2024-12-29,Closed,P4,Low,Production,Data,,Support,Riley Davis,48,50.6,1,0,1,2
+INC000307,2024-12-10,2024-12-10,Closed,P3,Low,Production,Access,Sync,Support,Riley Davis,24,10.4,0,0,0,0
+INC000308,2025-01-14,2025-01-14,Closed,P2,Medium,Dev,Performance,Login,Data,,8,3.8,0,0,0,0
+INC000309,2024-12-25,2024-12-25,Closed,P3,Medium,Test,Performance,,Platform,Sam Jones,24,20.0,0,0,0,0
+INC000310,2025-01-28,,In Progress,P2,High,Dev,Access,Sync,Infrastructure,Alex Chen,8,,0,0,0,41
+INC000311,2025-02-25,,New,P4,Medium,Production,Performance,Permissions,Platform,,48,,0,0,0,13
+INC000312,2025-02-14,2025-02-15,Closed,P3,Medium,Production,Access,Quality,Data,Jordan Lee,24,25.2,1,0,0,1
+INC000313,2025-03-05,2025-03-05,Closed,P3,Medium,Production,Data,,Platform,Casey Brown,24,20.3,0,0,0,0
+INC000314,2025-02-21,2025-02-21,Resolved,P3,Medium,Production,Access,Timeout,Support,,24,22.8,0,0,0,0
+INC000315,2025-02-04,2025-02-04,Resolved,P3,Low,Dev,Data,Permissions,Infrastructure,,24,10.5,0,0,0,0
+INC000316,2025-03-09,2025-03-12,Resolved,P4,Low,Production,Performance,Login,Support,Casey Brown,48,73.8,1,0,0,3
+INC000317,2025-01-19,2025-01-19,Resolved,P2,High,Production,Integration,Permissions,Infrastructure,Riley Davis,8,7.1,0,0,0,0
+INC000318,2025-01-24,2025-01-25,Resolved,P4,Medium,Production,Access,Timeout,Platform,Casey Brown,48,25.0,0,0,0,1
+INC000319,2025-01-02,2025-01-02,Closed,P2,High,Dev,Integration,Login,Data,Casey Brown,8,5.2,0,0,0,0
+INC000320,2024-12-25,2024-12-25,Resolved,P3,Medium,UAT,Performance,Permissions,Data,Jordan Lee,24,16.7,0,0,0,0
+INC000321,2025-02-08,2025-02-08,Closed,P2,Medium,Dev,Performance,Permissions,Data,Alex Chen,8,4.3,0,0,0,0
+INC000322,2025-01-13,,Pending,P3,Medium,Test,Data,Login,Data,Casey Brown,24,,0,0,0,56
+INC000323,2025-02-11,2025-02-12,Resolved,P3,Low,Production,Integration,,Infrastructure,,24,36.0,1,1,0,1
+INC000324,2024-12-22,2024-12-22,Resolved,P2,Medium,Production,Performance,Login,Support,Jordan Lee,8,11.9,1,0,0,0
+INC000325,2025-01-24,2025-01-24,Closed,P3,Low,Production,Performance,Sync,Platform,Casey Brown,24,22.8,0,0,0,0
+INC000326,2025-02-28,2025-02-28,Closed,P4,Low,UAT,Performance,Timeout,Data,Casey Brown,48,22.2,0,0,0,0
+INC000327,2025-01-25,,New,P2,High,Test,Performance,,Data,Sam Jones,8,,0,0,0,44
+INC000328,2024-12-31,2025-01-01,Closed,P4,Medium,Production,Access,,Platform,,48,46.9,0,0,0,1
+INC000329,2025-01-28,2025-01-28,Resolved,P2,High,Production,Access,,Data,Casey Brown,8,11.9,1,0,0,0
+INC000330,2025-02-17,2025-02-17,Closed,P2,High,Dev,Data,Permissions,Infrastructure,Alex Chen,8,5.7,0,0,0,0
+INC000331,2025-02-04,2025-02-04,Resolved,P2,High,Production,Performance,,Platform,Jordan Lee,8,10.8,1,1,0,0
+INC000332,2024-12-11,2024-12-11,Closed,P3,Medium,Test,Integration,Quality,Support,Sam Jones,24,8.9,0,0,0,0
+INC000333,2025-01-12,2025-01-12,Closed,P3,Low,Production,Data,,Support,Riley Davis,24,21.0,0,0,0,0
+INC000334,2025-02-05,2025-02-05,Resolved,P2,High,Production,Data,,Data,Sam Jones,8,8.9,1,0,0,0
+INC000335,2024-12-21,,In Progress,P2,Medium,Production,Performance,,Infrastructure,Sam Jones,8,,0,0,1,79
+INC000336,2024-12-17,,In Progress,P3,Medium,Production,Performance,,Data,,24,,0,0,0,83
+INC000337,2025-01-10,2025-01-10,Resolved,P2,High,Production,Integration,Timeout,Data,Jordan Lee,8,7.7,0,0,0,0
+INC000338,2024-12-30,2024-12-31,Closed,P4,Low,UAT,Access,,Support,Sam Jones,48,43.1,0,0,0,1
+INC000339,2025-03-01,2025-03-01,Resolved,P3,Medium,Production,Access,Login,Infrastructure,Jordan Lee,24,16.2,0,0,0,0
+INC000340,2024-12-21,2024-12-21,Resolved,P3,Low,Production,Performance,Sync,Platform,Casey Brown,24,19.9,0,0,0,0
+INC000341,2025-01-03,2025-01-03,Closed,P3,Low,Production,Performance,Sync,Platform,Jordan Lee,24,15.5,0,0,0,0
+INC000342,2025-02-07,2025-02-09,Closed,P4,Low,Production,Integration,Quality,Platform,,48,58.6,1,0,1,2
+INC000343,2025-01-02,2025-01-02,Closed,P2,High,Test,Data,Timeout,Support,Jordan Lee,8,6.0,0,0,0,0
+INC000344,2025-01-31,,New,P3,Medium,UAT,Access,,Platform,Casey Brown,24,,0,0,1,38
+INC000345,2025-01-03,2025-01-03,Resolved,P3,Low,Production,Data,,Support,Alex Chen,24,7.2,0,0,0,0
+INC000346,2025-02-07,2025-02-07,Resolved,P3,Low,Test,Access,Timeout,Support,Alex Chen,24,10.7,0,1,1,0
+INC000347,2025-01-06,2025-01-06,Resolved,P3,Low,Dev,Access,,Data,,24,22.6,0,0,0,0
+INC000348,2025-02-21,2025-02-21,Closed,P3,Medium,Production,Performance,Sync,Data,Jordan Lee,24,17.5,0,0,0,0
+INC000349,2025-02-18,2025-02-18,Resolved,P2,Medium,Dev,Performance,,Support,Casey Brown,8,5.2,0,0,0,0
+INC000350,2025-01-29,,In Progress,P2,High,Production,Access,Permissions,Data,Jordan Lee,8,,0,1,0,40
+INC000351,2024-12-12,2024-12-13,Closed,P3,Medium,Test,Integration,Timeout,Platform,Jordan Lee,24,29.3,1,0,0,1
+INC000352,2024-12-21,2024-12-21,Resolved,P2,High,UAT,Data,,Support,Riley Davis,8,7.3,0,0,0,0
+INC000353,2025-03-02,,In Progress,P3,Medium,Production,Data,Quality,Platform,Alex Chen,24,,0,0,0,8
+INC000354,2025-01-08,2025-01-09,Resolved,P4,Medium,Test,Integration,Login,Platform,Alex Chen,48,31.8,0,0,0,1
+INC000355,2025-03-06,2025-03-06,Closed,P2,High,Test,Performance,Quality,Data,Jordan Lee,8,10.1,1,0,0,0
+INC000356,2024-12-20,2024-12-21,Closed,P3,Medium,Production,Performance,Permissions,Infrastructure,Sam Jones,24,34.1,1,0,0,1
+INC000357,2024-12-19,2024-12-20,Closed,P3,Medium,Production,Performance,Timeout,Platform,Sam Jones,24,28.2,1,0,0,1
+INC000358,2025-01-23,2025-01-23,Resolved,P2,High,UAT,Integration,,Infrastructure,,8,10.3,1,0,0,0
+INC000359,2024-12-16,2024-12-16,Resolved,P2,Medium,Production,Data,Permissions,Platform,Sam Jones,8,4.8,0,0,0,0
+INC000360,2025-02-17,2025-02-17,Resolved,P2,High,UAT,Access,Timeout,Platform,Alex Chen,8,2.4,0,0,0,0
+INC000361,2025-02-07,,New,P2,Medium,UAT,Access,Quality,Support,Sam Jones,8,,0,0,0,31
+INC000362,2025-01-27,2025-01-28,Closed,P4,Medium,UAT,Data,Timeout,Platform,Jordan Lee,48,37.0,0,1,0,1
+INC000363,2025-02-10,2025-02-10,Resolved,P2,Medium,Production,Access,Timeout,Support,Casey Brown,8,7.7,0,0,1,0
+INC000364,2024-12-13,2024-12-13,Resolved,P2,Medium,Dev,Integration,Permissions,Infrastructure,Casey Brown,8,5.0,0,0,0,0
+INC000365,2025-01-09,2025-01-09,Resolved,P2,Medium,UAT,Performance,Login,Infrastructure,Jordan Lee,8,5.4,0,0,0,0
+INC000366,2025-03-08,2025-03-08,Resolved,P2,High,Test,Performance,Sync,Data,Casey Brown,8,12.8,1,0,1,0
+INC000367,2025-01-31,2025-02-01,Resolved,P3,Low,Production,Data,Permissions,Data,Riley Davis,24,25.6,1,0,0,1
+INC000368,2025-01-08,2025-01-08,Closed,P1,High,Production,Access,Login,Data,Sam Jones,4,2.1,0,0,0,0
+INC000369,2025-01-03,2025-01-03,Resolved,P4,Medium,Production,Performance,,Infrastructure,,48,14.3,0,0,0,0
+INC000370,2025-01-20,2025-01-20,Closed,P2,High,Test,Integration,,Infrastructure,Riley Davis,8,6.3,0,0,0,0
+INC000371,2024-12-23,,New,P1,Critical,UAT,Integration,,Infrastructure,Sam Jones,4,,0,0,0,77
+INC000372,2025-01-16,2025-01-16,Closed,P3,Low,Production,Integration,,Infrastructure,Alex Chen,24,7.0,0,0,0,0
+INC000373,2025-02-12,2025-02-14,Closed,P4,Low,Production,Data,,Infrastructure,Alex Chen,48,64.6,1,0,0,2
+INC000374,2025-01-11,2025-01-11,Closed,P3,Medium,Production,Data,Login,Platform,Casey Brown,24,7.5,0,0,0,0
+INC000375,2025-02-18,,New,P4,Low,Production,Data,Timeout,Data,Jordan Lee,48,,0,0,1,20
+INC000376,2025-02-05,2025-02-07,Closed,P4,Low,Production,Access,,Platform,Sam Jones,48,65.9,1,0,0,2
+INC000377,2025-01-06,2025-01-06,Closed,P2,High,UAT,Performance,Login,Platform,Alex Chen,8,5.3,0,0,1,0
+INC000378,2025-03-03,,New,P1,High,Production,Access,Login,Support,,4,,0,0,0,7
+INC000379,2025-01-15,2025-01-15,Closed,P3,Medium,UAT,Data,Quality,Infrastructure,Alex Chen,24,7.6,0,0,0,0
+INC000380,2025-02-02,2025-02-02,Closed,P2,High,Test,Access,,Support,Casey Brown,8,6.1,0,0,1,0
+INC000381,2025-03-08,2025-03-08,Closed,P3,Low,UAT,Integration,,Support,Casey Brown,24,16.8,0,0,0,0
+INC000382,2025-01-02,2025-01-02,Closed,P2,High,Test,Access,Quality,Platform,Casey Brown,8,2.7,0,0,0,0
+INC000383,2024-12-15,2024-12-15,Closed,P3,Medium,Production,Data,,Data,Alex Chen,24,11.4,0,0,0,0
+INC000384,2025-03-07,2025-03-07,Closed,P3,Medium,Production,Performance,Login,Data,Casey Brown,24,14.4,0,0,1,0
+INC000385,2024-12-29,2024-12-29,Closed,P3,Low,UAT,Integration,Sync,Infrastructure,Riley Davis,24,7.0,0,0,0,0
+INC000386,2025-02-16,,In Progress,P2,Medium,Production,Data,Quality,Platform,,8,,0,0,0,22
+INC000387,2025-02-16,2025-02-16,Closed,P2,High,Test,Data,Sync,Support,Casey Brown,8,3.6,0,0,0,0
+INC000388,2025-01-17,,In Progress,P2,High,Production,Performance,Login,Data,Sam Jones,8,,0,0,0,52
+INC000389,2025-01-22,2025-01-22,Resolved,P3,Low,Dev,Data,,Data,Casey Brown,24,22.4,0,0,0,0
+INC000390,2025-01-28,2025-01-28,Resolved,P1,Critical,Test,Performance,Timeout,Platform,,4,6.2,1,0,1,0
+INC000391,2025-01-05,2025-01-05,Closed,P2,Medium,Production,Access,,Infrastructure,Sam Jones,8,9.8,1,1,0,0
+INC000392,2025-02-17,2025-02-17,Closed,P2,Medium,Production,Performance,,Data,,8,4.0,0,0,0,0
+INC000393,2024-12-16,2024-12-16,Closed,P2,High,Production,Access,,Infrastructure,Casey Brown,8,3.2,0,0,0,0
+INC000394,2025-02-20,2025-02-21,Closed,P4,Medium,Production,Integration,Timeout,Platform,Jordan Lee,48,45.2,0,0,0,1
+INC000395,2025-01-29,2025-01-29,Resolved,P2,Medium,Production,Integration,Sync,Infrastructure,Riley Davis,8,4.1,0,0,0,0
+INC000396,2025-02-21,2025-02-21,Resolved,P3,Medium,Production,Access,Permissions,Support,Riley Davis,24,15.3,0,0,0,0
+INC000397,2024-12-30,2024-12-30,Closed,P2,Medium,Dev,Performance,,Infrastructure,Alex Chen,8,3.4,0,0,1,0
+INC000398,2025-02-23,2025-02-23,Closed,P2,Medium,UAT,Performance,Quality,Data,Jordan Lee,8,9.0,1,0,0,0
+INC000399,2025-02-11,2025-02-11,Resolved,P2,High,UAT,Access,Permissions,Platform,,8,3.7,0,0,0,0
+INC000400,2025-01-19,,Pending,P3,Low,Production,Integration,Quality,Support,Sam Jones,24,,0,1,0,50
+INC000401,2025-01-16,2025-01-16,Closed,P4,Low,Production,Integration,Sync,Support,,48,20.2,0,0,0,0
+INC000402,2025-01-27,2025-01-27,Closed,P2,High,Production,Performance,Login,Infrastructure,Sam Jones,8,4.1,0,0,0,0
+INC000403,2024-12-11,,New,P3,Low,Production,Access,Quality,Infrastructure,Casey Brown,24,,0,0,0,89
+INC000404,2025-03-09,2025-03-09,Resolved,P2,Medium,UAT,Performance,Permissions,Infrastructure,,8,11.5,1,0,0,0
+INC000405,2025-02-12,2025-02-13,Closed,P3,Medium,Production,Integration,Timeout,Platform,Casey Brown,24,32.7,1,0,0,1
+INC000406,2025-02-14,2025-02-14,Closed,P2,Medium,Production,Integration,,Platform,Riley Davis,8,7.3,0,0,1,0
+INC000407,2025-02-08,2025-02-08,Closed,P2,Medium,UAT,Performance,Login,Support,Riley Davis,8,5.3,0,1,0,0
+INC000408,2024-12-16,2024-12-16,Resolved,P3,Medium,UAT,Performance,Timeout,Support,Jordan Lee,24,20.9,0,0,0,0
+INC000409,2025-01-11,2025-01-11,Resolved,P2,High,Production,Access,,Infrastructure,Jordan Lee,8,12.0,1,0,0,0
+INC000410,2024-12-20,2024-12-20,Resolved,P3,Low,Dev,Data,Sync,Infrastructure,Alex Chen,24,18.7,0,0,0,0
+INC000411,2025-03-02,2025-03-02,Closed,P1,High,Production,Integration,Quality,Infrastructure,Casey Brown,4,3.2,0,0,0,0
+INC000412,2025-01-12,2025-01-12,Resolved,P1,High,Production,Integration,Timeout,Infrastructure,Jordan Lee,4,5.6,1,0,0,0
+INC000413,2025-01-13,2025-01-13,Resolved,P3,Low,Production,Access,Login,Infrastructure,Jordan Lee,24,16.3,0,0,0,0
+INC000414,2025-02-18,2025-02-18,Closed,P1,High,Production,Access,,Platform,Alex Chen,4,3.1,0,0,1,0
+INC000415,2025-02-24,2025-02-25,Resolved,P4,Low,UAT,Integration,Login,Platform,Alex Chen,48,38.8,0,0,0,1
+INC000416,2025-03-09,,In Progress,P3,Medium,Production,Performance,Sync,Infrastructure,Jordan Lee,24,,0,0,0,1
+INC000417,2024-12-30,,In Progress,P1,High,Test,Access,,Support,Alex Chen,4,,0,0,0,70
+INC000418,2025-02-10,2025-02-10,Closed,P2,Medium,Dev,Access,,Platform,Alex Chen,8,5.8,0,0,0,0
+INC000419,2024-12-19,2024-12-19,Resolved,P3,Medium,Production,Data,Quality,Infrastructure,Riley Davis,24,17.6,0,0,0,0
+INC000420,2024-12-10,,New,P2,Medium,UAT,Integration,,Infrastructure,Alex Chen,8,,0,0,1,90
