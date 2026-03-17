@@ -1,14 +1,30 @@
 # Power BI Operations Incident and SLA Monitoring Dashboard
 
-**At a glance:** A Data Analyst portfolio project for operations reporting and SLA monitoring. Contains a documented schema, reproducible sample data, DAX measures, and three-page wireframes—so a hiring manager can assess your approach in 30–60 seconds without running the report.
+**At a glance:** A Data Analyst portfolio project for operations reporting and SLA monitoring. Contains a documented schema, reproducible sample data, DAX measures, and three-page wireframes-so a hiring manager can assess your approach in 30-60 seconds without running the report.
 
 ---
 
-## What This Project Is
+## Project Summary
 
-- **Purpose:** Recruiter-friendly Power BI piece showing analytical thinking, KPI design, business-question framing, and stakeholder-ready reporting.
-- **Scope:** One incident-level dataset, one star-style model, three report pages (Executive Overview → SLA & Backlog → Root Cause & Explorer).
-- **Data:** Synthetic sample data (300–500 rows) with realistic patterns; no production or confidential data.
+This Power BI project was built as a job-search portfolio piece for Data Analyst roles. It demonstrates how incident and support data can be transformed into a clear executive dashboard for monitoring operational performance, SLA risk, backlog ageing, and issue concentration.
+
+The project is designed to showcase practical analyst capability rather than just visual design. It highlights skills in data preparation, KPI definition, DAX-based reporting logic, dashboard structuring, and stakeholder-focused presentation.
+
+---
+
+## Dashboard Preview
+
+![Executive Overview dashboard](docs/images/executive-overview-dashboard.png)
+
+*Executive Overview dashboard showing incident volume, SLA breach rate, critical incidents, backlog pressure, and incident distribution by status, environment, and priority.*
+
+---
+
+## What This Project Covers
+
+- **Purpose:** A recruiter-friendly Power BI project showing analytical thinking, KPI design, business question framing, and stakeholder-ready reporting.
+- **Scope:** One incident-level dataset, one star-style model, and three report pages: Executive Overview, SLA and Backlog Analysis, and Root Cause and Ticket Explorer.
+- **Data:** Synthetic sample data (300-500 rows) with realistic patterns. No production or confidential data is used.
 
 **Business questions the dashboard answers:**
 
