@@ -1,6 +1,6 @@
 # Power BI Operations Incident and SLA Monitoring Dashboard
 
-**At a glance:** A Data Analyst portfolio project for operations reporting and SLA monitoring. Contains a documented schema, reproducible sample data, DAX measures, and three-page wireframes-so a hiring manager can assess your approach in 30-60 seconds without running the report.
+**At a glance:** A Data Analyst portfolio project for operations reporting and SLA monitoring. Contains a documented schema, reproducible sample data, DAX measures, and three-page wireframes so a hiring manager can assess your approach in 30-60 seconds without running the report.
 
 ---
 
